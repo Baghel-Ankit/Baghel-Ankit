@@ -144,7 +144,7 @@
 
 <strong>Holopin badges</strong>
 
-[![@Ankit-Kumar-Dhangar1's Holopin board](https://holopin.me/@Ankit-Kumar-Dhangar1)](https://holopin.io/@[Ankit-Kumar-Dhangar1](https://www.holopin.io/@ankitkumardhangar1#))
+[![@Ankit-Kumar-Dhangar1's Holopin board](https://holopin.me/@Ankit-Kumar-Dhangar1)](https://holopin.io/@[Ankit-Kumar-Dhangar1](https://www.holopin.io/@ankitkumardhangar1))
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.Ankit-Kumar-Dhangar1.com/)](https://www.Ankit-Kumar-Dhangar1.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.ankitbaghel1234@gmail.com)](mailto:mr.ankitbaghel1234@gmail.com)
