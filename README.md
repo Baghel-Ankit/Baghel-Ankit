@@ -107,13 +107,13 @@
   </p>
 
 # 📊 GitHub Stats:
-![stats](https://github-readme-stats.vercel.app/api?username=Ankit-Kumar-Dhangar1&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=Ankit-Kumar-Dhangar1&no-bg=true&no-frame=true&column=4&theme=algolia)
+![stats](https://github-readme-stats.vercel.app/api?username=Baghel-Ankit&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=Baghel-Ankit&no-bg=true&no-frame=true&column=4&theme=algolia)
 
-![graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ankit-Kumar-Dhangar1&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
+![graph](https://github-readme-activity-graph.cyclic.app/graph?username=Baghel-Ankit&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 
-![streak](https://github-contributor-stats.vercel.app/api?username=Ankit-Kumar-Dhangar1&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
-![streak](https://streak-stats.demolab.com/?user=Ankit-Kumar-Dhangar1&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
+![streak](https://github-contributor-stats.vercel.app/api?username=Baghel-Ankit&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![streak](https://streak-stats.demolab.com/?user=Baghel-Ankit&hide_border=true&background=00000000&border=2980b9&stroke=2980b9&ring=27ae60&fire=27ae60&currStreakNum=2980b9&sideNums=2980b9&currStreakLabel=2980b9&sideLabels=2980b9&dates=2980b9)
 
 
 
@@ -121,20 +121,20 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#180950](https://github.com/microsoft/vscode/issues/180950) in [microsoft/vscode](https://github.com/microsoft/vscode)
 2. ❗️ Opened issue [#120](https://github.com/flutter/flutter/issues) in [flutter/flutter](https://github.com/flutter/flutter/issues)
-3. ❌ Closed PR [#51](https://github.com/Ankit-Kumar-Dhangar1/atherstone-admin/pull/51) in [Ankit-Kumar-Dhangar1/atherstone-admin](https://github.com/offoapp/atherstone-admin)
+3. ❌ Closed PR [#51](https://github.com/Baghel-Ankit/atherstone-admin/pull/51) in [Baghel-Ankit/atherstone-admin](https://github.com/offoapp/atherstone-admin)
 4. 🗣 Commented on [#127040](https://github.com/flutter/flutter/issues/127040) in [flutter/flutter](https://github.com/flutter/flutter)
 5. 💪 Opened PR [#52](https://github.com/offoapp/atherstone-admin/pull/52) in [offoapp/atherstone-admin](https://github.com/offoapp/atherstone-admin)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/Ankit-Kumar-Dhangar1?template=classic&base.header=0&gists=1&lines=1)
+![Metrics](https://metrics.lecoq.io/Baghel-Ankit?template=classic&base.header=0&gists=1&lines=1)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ankit-Kumar-Dhangar1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Baghel-Ankit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <strong>🏆 Dooboo lab's github stats</strong>
 
-<a href="https://stats.hyochan.dev/en/stats/Ankit-Kumar-Dhangar1"><img src="https://stats.hyochan.dev/api/github-stats?login=Ankit-Kumar-Dhangar1" width="600" /></a>
+<a href="https://stats.hyochan.dev/en/stats/Baghel-Ankit"><img src="https://stats.hyochan.dev/api/github-stats?login=Baghel-Ankit" width="600" /></a>
 
 <strong>Stackoverflow stats</strong></br>
 <div></div>
@@ -144,15 +144,15 @@
 
 <strong>Holopin badges</strong>
 
-[![@Ankit-Kumar-Dhangar1's Holopin board](https://holopin.me/@ankitkumardhangar1)](https://holopin.io/@[ankitkumardhangar1](https://www.holopin.io/@ankitkumardhangar1))
+[![@Baghel-Ankit's Holopin board](https://holopin.me/@ankitkumardhangar1)](https://holopin.io/@[ankitkumardhangar1](https://www.holopin.io/@ankitkumardhangar1))
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.Ankit-Kumar-Dhangar1.com/)](https://www.Ankit-Kumar-Dhangar1.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://www.Baghel-Ankit.com/)](https://www.Baghel-Ankit.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.ankitbaghel1234@gmail.com)](mailto:mr.ankitbaghel1234@gmail.com)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankit-Kumar-Dhangar1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Baghel-Ankit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
